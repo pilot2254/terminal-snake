@@ -1,0 +1,19 @@
+{
+    "name": "terminal-snake",
+    "version": "0.2.0",
+    "description": "A simple terminal-based Snake game built with Node.js",
+    "main": "snake.js",
+    "type": "module",
+    "scripts": {
+      "start": "node snake.js"
+    },
+    "keywords": [
+      "snake",
+      "game",
+      "terminal",
+      "cli",
+      "nodejs"
+    ],
+    "author": "pilot2254",
+    "license": "MIT"
+  }
